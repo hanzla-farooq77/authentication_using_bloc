@@ -7,7 +7,7 @@ import '../bloc/auth_bloc/auth_state.dart';
 
 class AuthScreen extends StatefulWidget {
   const AuthScreen({super.key});
-
+   
   @override
   State<AuthScreen> createState() => _AuthScreenState();
 }
